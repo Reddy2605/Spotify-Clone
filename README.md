@@ -1,4 +1,4 @@
-<h1><b> Spotify Clone </b></h1>
+<h1><b> SpotifyClone </b></h1>
 
 
 A simple Spotify clone built using HTML and CSS, designed to mimic the look and feel of the popular music streaming platform.
