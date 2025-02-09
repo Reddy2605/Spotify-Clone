@@ -19,6 +19,7 @@ Playlist & Album Sections: Displays playlists and albums with hover effects.
 <h3><b>Technologies Used</b></h3>
 
 HTML: For structuring the web pages.
+
 CSS: For styling and responsiveness.
 
 
