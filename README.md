@@ -20,7 +20,7 @@ Playlist & Album Sections: Displays playlists and albums with hover effects.
 
 HTML: For structuring the web pages.
 
-CSS: For styling and responsiveness.
+CSS: For styling and a responsiveness.
 
 
 <h3><b>Installation</b></h3>
