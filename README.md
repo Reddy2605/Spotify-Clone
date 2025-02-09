@@ -6,7 +6,7 @@ A simple Spotify clone built using HTML and CSS, designed to mimic the look and 
 
 <h3>Features</h3>
 
-Responsive Design: The layout adapts to different screen sizes.
+Responsive Design: The layout  adapts to different screen sizes.
 
 Homepage UI: A visually appealing homepage inspired by Spotify.
 
