@@ -10,7 +10,7 @@ Responsive Design: The layout adapts to different screen sizes.
 
 Homepage UI: A visually appealing homepage inspired by Spotify.
 
-Navigation Bar: Includes options for  Home, Search, and  the Library.
+Navigation Bar: Includes options for a Home, Search, and  the Library.
 
 Music Player UI: A fixed bottom player with play, pause, and next/previous controls.
 
