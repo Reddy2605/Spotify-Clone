@@ -21,6 +21,7 @@ Playlist & Album Sections: Displays playlists and albums with hover effects.
 HTML: For structuring the web pages.
 CSS: For styling and responsiveness.
 
+
 <h3><b>Installation</b></h3>
 
 1. Clone the repository:https://github.com/anoushkaa26/Spotify-Clone.git
